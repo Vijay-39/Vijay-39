@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vijay-39
+- 👋 Hi
 - 👀 I’m interested in (Its still loading....)
 - 🌱 I’m currently learning Computer engineering with DS as major
 - 💞️ I’m looking to collaborate on ...
